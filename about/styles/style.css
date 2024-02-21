@@ -331,7 +331,7 @@ body{
     padding-right: 262px;
     display: flex;
     gap: 260px;
-    background: url(/images/rasm2.png) no-repeat left bottom #F67E7E;
+    background: url(/about/images/rasm2.png) no-repeat left bottom #F67E7E;
 }
 
 .Ready h2{

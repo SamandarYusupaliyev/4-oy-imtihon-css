@@ -51,11 +51,10 @@ body{
     margin-right: 0 auto;
     justify-content: center;
     align-items: center;
-    background-color: #014E56;
 }
 
 .myteam{
-    background: url(/home/images/rasm1.svg) no-repeat left center,url(/home/images/rasm2.svg) no-repeat right bottom;
+    background: url(/home/images/rasm1.svg) no-repeat left center,url(/home/images/rasm2.svg) no-repeat right bottom #014E56;
 }
 
 .Top{
